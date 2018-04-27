@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telefono</string>
+    <string-array name="Agenda">
+        <item>5521058111</item>
+        <item>5566006935</item>
+        <item>018005522222</item>
+    </string-array>
+    <string name="Usuario_1">sergio</string>
+    <string name="Contraseña_definida_1">hueletraseros</string>
+    <string name="Usuario_2">cesar</string>
+    <string name="Contraseña_definida_2">del1al8</string>
+    <string name="var_usuario_extra">Fernando3000</string>
+
+</resources>
